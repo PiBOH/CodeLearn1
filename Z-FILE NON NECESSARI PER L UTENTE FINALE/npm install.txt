@@ -1,0 +1,12 @@
+npm install
+npm run build
+npx cap sync android
+cd android
+./gradlew assembleDebug
+cd..
+npm run dev
+
+Remove-Item -Recurse -Force node_modules
+Remove-Item package-lock.json
+
+http://localhost:5173/
