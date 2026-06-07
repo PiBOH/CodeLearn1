@@ -57,7 +57,7 @@
 
 L'app viene deployata automaticamente su Vercel e accessibile da qualsiasi browser moderno senza bisogno di installare niente, funziona su tutti i sistemi operativi (dal link)
 
-https://code-learn-ruddy.vercel.app/  
+https://code-learn1.vercel.app/  
 [![GitHub Release](https://img.shields.io/github/v/release/PiBOH/CodeLearn1?include_prereleases&style=flat-square&cacheSeconds=1)
 ](https://code-learn1.vercel.app/) 
  
