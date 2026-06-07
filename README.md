@@ -31,7 +31,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/PiBOH/CodeLearn1?style=social&logo=GitHub&cacheSeconds=1)
 ![GitHub Repo stars](https://img.shields.io/github/stars/PiBOH/CodeLearn1?style=social&cacheSeconds=5)
 ![GitHub last commit](https://img.shields.io/github/last-commit/PiBOH/CodeLearn1?style=flat)
-[![GitHub project issues](https://img.shields.io/github/issues/PiBOH/CodeLearn.svg)](https://github.com/PiBOH/CodeLearn1/issues)
+[![GitHub project issues](https://img.shields.io/github/issues/PiBOH/CodeLearn1.svg)](https://github.com/PiBOH/CodeLearn1/issues)
 
 [![GitHub License](https://img.shields.io/github/license/PiBOH/CodeLearn?style=flat&cacheSeconds=1)](https://github.com/PiBOH/CodeLearn1/blob/main/LICENSE.txt)
 
