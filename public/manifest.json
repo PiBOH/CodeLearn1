@@ -1,0 +1,16 @@
+{
+  "name": "CodeLearn STABLE V1.1.2c-3a",
+  "short_name": "CodeLearn",
+  "description": "App educativa per imparare a programmare",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#6366f1",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
