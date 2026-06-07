@@ -1,0 +1,5 @@
+android/
+*.apk
+node_modules/
+.env
+.env.local
