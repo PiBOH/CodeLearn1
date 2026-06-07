@@ -1,6 +1,6 @@
 # CodeLearn — Impara a Programmare   |   Versione 1.1.2c-3a - The Sync Update
 
-> il prossimo aggiornamento provvederà a chiudere il bug descritto in [questa issue](https://github.com/PiBOH/CodeLearn/issues/8) -> versione `1.1.2d-X`
+> il prossimo aggiornamento provvederà a chiudere il bug descritto in [questa issue](https://github.com/PiBOH/CodeLearn1/issues/8) -> versione `1.1.2d-X`
 > 
 > Con l' aggiornamento dopo dopo la `1.1.2d-X` è prevista l'introduzione della dark mode e anche la possibilità di visualizzare l'app in più lingue -> versione `1.X.Xx-X`
 
@@ -58,7 +58,7 @@
 L'app viene deployata automaticamente su Vercel e accessibile da qualsiasi browser moderno senza bisogno di installare niente, funziona su tutti i sistemi operativi (dal link)
 
 https://code-learn-ruddy.vercel.app/  
-[![GitHub Release](https://img.shields.io/github/v/release/PiBOH/CodeLearn?include_prereleases&style=flat-square&cacheSeconds=1)
+[![GitHub Release](https://img.shields.io/github/v/release/PiBOH/CodeLearn1?include_prereleases&style=flat-square&cacheSeconds=1)
 ](https://code-learn1.vercel.app/) 
  
 *(se la versione è su sfondo arancione allora aprendo il link potrai usare una pre-release, se invece ha lo sfondo azzurro allora vuoldire he aprendo il link userai una release stabile)*
@@ -116,9 +116,9 @@ L'APK si troverà in `android/app/build/outputs/apk/debug/app-debug.apk`.
 ---
 ## 📱 APK Prebuildato ![GitHub Release](https://img.shields.io/github/v/release/PiBOH/CodeLearn?cacheSeconds=1&link=https%3A%2F%2Fgithub.com%2FPiBOH%2FCodeLearn%2Freleases)
 
-Mi trovi alla pagina delle [release](https://github.com/PiBOH/CodeLearn/releases).
+Mi trovi alla pagina delle [release](https://github.com/PiBOH/CodeLearn1/releases).
 
-**N.B.** è **sconsigliato utilizzare il file apk su Android 11 e precedenti** perché non carica correttamente la grafica (vedi gli [screenshot](https://github.com/PiBOH/CodeLearn/blob/main/android11screen_APK/android11screen_APK.md)). Se vuoi usarla su queste versioni ti consiglio di utilizzare la [demo](https://code-learn-ruddy.vercel.app/).
+**N.B.** è **sconsigliato utilizzare il file apk su Android 11 e precedenti** perché non carica correttamente la grafica (vedi gli [screenshot](https://github.com/PiBOH/CodeLearn1/blob/main/android11screen_APK/android11screen_APK.md)). Se vuoi usarla su queste versioni ti consiglio di utilizzare la [demo](https://code-learn-ruddy.vercel.app/).
 
 ---
 ## 📁 Struttura del progetto
@@ -159,7 +159,7 @@ codelearn/
 
 ## 📝 Licenza
 
-[GNU AGPL v3.0](https://github.com/PiBOH/CodeLearn/blob/main/LICENSE.txt)
+[GNU AGPL v3.0](https://github.com/PiBOH/CodeLearn1/blob/main/LICENSE.txt)
 
 ***
 
@@ -171,13 +171,13 @@ codelearn/
 - [abdxdev](https://github.com/abdxdev/) for the [MarkDown Badge Generator](https://markdown-badge-generator.streamlit.app/)
 - [therealsujitk](https://github.com/therealsujitk) for the [Deploy badge generator](https://deploy-badge.vercel.app/)
 - [donaldzou](https://github.com/donaldzou) for the [Visitor badge generator](https://hitscounter.dev/)
-- [vivizzz007](https://github.com/vivizzz007) for the [ISSUE_TEMPLATE](https://github.com/PiBOH/CodeLearn/tree/main/.github/ISSUE_TEMPLATE)
+- [vivizzz007](https://github.com/vivizzz007) for the [ISSUE_TEMPLATE](https://github.com/PiBOH/CodeLearn1/tree/main/.github/ISSUE_TEMPLATE)
 
 ### _**TESTERS and IDEAS**_
 
-- [ITA]    [jac_010] for the [anti-cheat idea](https://github.com/PiBOH/CodeLearn/releases/tag/1.1.1a-7) and tests.
+- [ITA]    [jac_010] for the [anti-cheat idea](https://github.com/PiBOH/CodeLearn1/releases/tag/1.1.1a-7) and tests.
 - [ITA]    [Gab9021] for general tests (android apk).
-- [ITA]    [Jackk🌹] for the [Synch Update idea](https://github.com/PiBOH/CodeLearn/releases/tag/1.1.2c-3_STABLE).
+- [ITA]    [Jackk🌹] for the [Synch Update idea](https://github.com/PiBOH/CodeLearn1/releases/tag/1.1.2c-3_STABLE).
 
 ### _**GENERAL SUPPORT**_
 
