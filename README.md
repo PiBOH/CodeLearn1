@@ -67,8 +67,8 @@ https://codelearn-73ci.arcada.app
 [![release](https://img.shields.io/badge/release-1.0.2d-ffffff?style=flat-square&color=21a7f5)](https://codelearn-73ci.arcada.app)
  
 
-N.B. la [![release](https://img.shields.io/badge/release-1.0.2d-ffffff?style=flat&color=21a7f5)](https://code-learn1.vercel.app/) contiene molti bug durante l' esecuzione di vari percorsi (impossibilità di completarli).
-Quindi se ti interessa usarla come si deve consiglio di usare la demo della [![GitHub Release](https://img.shields.io/github/v/release/PiBOH/CodeLearn?include_prereleases&style=flat&cacheSeconds=1)](https://code-learn1.vercel.app/)
+N.B. la [![release](https://img.shields.io/badge/release-1.0.2d-ffffff?style=flat&color=21a7f5)](https://codelearn-73ci.arcada.app) contiene molti bug durante l' esecuzione di vari percorsi (impossibilità di completarli).
+Quindi se ti interessa usarla come si deve consiglio di usare la demo della [![GitHub Release](https://img.shields.io/github/v/release/PiBOH/CodeLearn1?include_prereleases&style=flat&cacheSeconds=1)](https://code-learn1.vercel.app/)
 oppure di scaricarti sempre l'ultima versione e/o fare da te il deploy.
 
 ---
