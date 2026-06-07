@@ -13,27 +13,27 @@
 [![Java](https://img.shields.io/badge/Java-ffffff?logo=openjdk&style=flat&color=f34006&logoColor=000000)](https://www.java.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?logo=javascript&style=flat&color=000000&logoColor=F7DF1E)](https://www.javascript.com/)
 ![css](https://img.shields.io/badge/css-ffffff?logo=csswizardry&style=flat&color=0c0b0b&logoColor=F43059)
-[![Vercel App Hosting](https://img.shields.io/badge/Vercel%20App%20Hosting-ffffff?logo=vercel&style=flat&color=0b0b0c&logoColor=ffffff)](https://code-learn-ruddy.vercel.app/)
+[![Vercel App Hosting](https://img.shields.io/badge/Vercel%20App%20Hosting-ffffff?logo=vercel&style=flat&color=0b0b0c&logoColor=ffffff)](https://code-learn1.vercel.app/)
 
 [![Vercel Deploy](https://deploy-badge.vercel.app/vercel/code-learn-ruddy)](https://code-learn-ruddy.vercel.app/)
-[![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/PiBOH/CodeLearn/android-build.yml?style=flat&logo=Android&cacheSeconds=10)](https://github.com/PiBOH/CodeLearn/actions/workflows/android-build.yml)
+[![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/PiBOH/CodeLearn1/android-build.yml?style=flat&logo=Android&cacheSeconds=10)](https://github.com/PiBOH/CodeLearn1/actions/workflows/android-build.yml)
 
 ![Android](https://img.shields.io/badge/Android-ffffff?logo=android&style=flat&color=0a0808&logoColor=3DDC84)
 [![Windows](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/)
 ![MacOS](https://img.shields.io/badge/MacOS-ffffff?logo=macos&style=flat&color=000000&logoColor=ff5000)
 ![On-line](https://img.shields.io/badge/On--line-ffffff?logo=googlechrome&style=flat&color=000000&logoColor=4285f4)
 
-[![GitHub Release](https://img.shields.io/github/v/release/PiBOH/CodeLearn?cacheSeconds=10&link=https%3A%2F%2Fgithub.com%2FPiBOH%2FCodeLearn%2Freleases)](https://github.com/PiBOH/CodeLearn/releases/latest)
-[![GitHub Release Date](https://img.shields.io/github/release-date/PiBOH/CodeLearn?display_date=published_at&style=flat)](https://github.com/PiBOH/CodeLearn/releases/latest)
-[![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/PiBOH/CodeLearn/total?style=flat&logo=GitHub&cacheSeconds=1)](https://github.com/PiBOH/CodeLearn/releases)
-[![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/PiBOH/CodeLearn/latest/total?style=flat&logo=GitHub&cacheSeconds=1)](https://github.com/PiBOH/CodeLearn/releases/latest)
+[![GitHub Release](https://img.shields.io/github/v/release/PiBOH/CodeLearn1?cacheSeconds=10&link=https%3A%2F%2Fgithub.com%2FPiBOH%2FCodeLearn%2Freleases)](https://github.com/PiBOH/CodeLearn1/releases/latest)
+[![GitHub Release Date](https://img.shields.io/github/release-date/PiBOH/CodeLearn1?display_date=published_at&style=flat)](https://github.com/PiBOH/CodeLearn1/releases/latest)
+[![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/PiBOH/CodeLearn1/total?style=flat&logo=GitHub&cacheSeconds=1)](https://github.com/PiBOH/CodeLearn1/releases)
+[![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/PiBOH/CodeLearn1/latest/total?style=flat&logo=GitHub&cacheSeconds=1)](https://github.com/PiBOH/CodeLearn1/releases/latest)
 [![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fcode-learn1.vercel.app/%2F&label=Visitors&icon=caret-up-fill&color=%23198754&message=&style=flat&tz=Europe%2FRome)](https://code-learn1.vercel.app/)
-![GitHub forks](https://img.shields.io/github/forks/PiBOH/CodeLearn?style=social&logo=GitHub&cacheSeconds=1)
-![GitHub Repo stars](https://img.shields.io/github/stars/PiBOH/CodeLearn?style=social&cacheSeconds=5)
-![GitHub last commit](https://img.shields.io/github/last-commit/PiBOH/CodeLearn?style=flat)
-[![GitHub project issues](https://img.shields.io/github/issues/PiBOH/CodeLearn.svg)](https://github.com/PiBOH/CodeLearn/issues)
+![GitHub forks](https://img.shields.io/github/forks/PiBOH/CodeLearn1?style=social&logo=GitHub&cacheSeconds=1)
+![GitHub Repo stars](https://img.shields.io/github/stars/PiBOH/CodeLearn1?style=social&cacheSeconds=5)
+![GitHub last commit](https://img.shields.io/github/last-commit/PiBOH/CodeLearn1?style=flat)
+[![GitHub project issues](https://img.shields.io/github/issues/PiBOH/CodeLearn.svg)](https://github.com/PiBOH/CodeLearn1/issues)
 
-[![GitHub License](https://img.shields.io/github/license/PiBOH/CodeLearn?style=flat&cacheSeconds=1)](https://github.com/PiBOH/CodeLearn/blob/main/LICENSE.txt)
+[![GitHub License](https://img.shields.io/github/license/PiBOH/CodeLearn?style=flat&cacheSeconds=1)](https://github.com/PiBOH/CodeLearn1/blob/main/LICENSE.txt)
 
 ***
 
@@ -46,9 +46,9 @@
 - **Percorsi di carriera** — Frontend, Backend, Mobile, Full Stack, Systems, Game Dev
 - **Classifica** — confrontati con altri studenti
 - **PWA + APK Android** — installabile su iOS (via Safari -> deploy necessario per ultima versione, altrimenti usa la demo) e Android (via APK)
-- **Sincronizzazione dei progressi fatti tra telefono e [sito vercel](https://code-learn-ruddy.vercel.app/)**
+- **Sincronizzazione dei progressi fatti tra telefono e [sito vercel](https://code-learn1.vercel.app/)**
 
-> se vuoi solo provare l'app ti basta andare su [questo sito](https://code-learn-ruddy.vercel.app/) e aggiungere la scritta `-GUEST` alla fine del tuo username.
+> se vuoi solo provare l'app ti basta andare su [questo sito](https://code-learn1.vercel.app/) e aggiungere la scritta `-GUEST` alla fine del tuo username.
 >
 > se invece **non** vuoi che i tuoi progressi vengano salvati sul server, ma vangano salvati solo sul [localhost](http://localhost:5173/) aggiungi la scritta `-LOCAL` alla fine del tuo username.
 ---
@@ -59,8 +59,7 @@ L'app viene deployata automaticamente su Vercel e accessibile da qualsiasi brows
 
 https://code-learn-ruddy.vercel.app/  
 [![GitHub Release](https://img.shields.io/github/v/release/PiBOH/CodeLearn?include_prereleases&style=flat-square&cacheSeconds=1)
-](https://code-learn-ruddy.vercel.app/
-) 
+](https://code-learn1.vercel.app/) 
  
 *(se la versione è su sfondo arancione allora aprendo il link potrai usare una pre-release, se invece ha lo sfondo azzurro allora vuoldire he aprendo il link userai una release stabile)*
 
@@ -68,9 +67,8 @@ https://codelearn-73ci.arcada.app
 [![release](https://img.shields.io/badge/release-1.0.2d-ffffff?style=flat-square&color=21a7f5)](https://codelearn-73ci.arcada.app)
  
 
-N.B. la [![release](https://img.shields.io/badge/release-1.0.2d-ffffff?style=flat&color=21a7f5)](https://codelearn-73ci.arcada.app) contiene molti bug durante l' esecuzione di vari percorsi (impossibilità di completarli).
-Quindi se ti interessa usarla come si deve consiglio di usare la demo della [![GitHub Release](https://img.shields.io/github/v/release/PiBOH/CodeLearn?include_prereleases&style=flat&cacheSeconds=1)](https://code-learn-ruddy.vercel.app/
-)
+N.B. la [![release](https://img.shields.io/badge/release-1.0.2d-ffffff?style=flat&color=21a7f5)](https://code-learn1.vercel.app/) contiene molti bug durante l' esecuzione di vari percorsi (impossibilità di completarli).
+Quindi se ti interessa usarla come si deve consiglio di usare la demo della [![GitHub Release](https://img.shields.io/github/v/release/PiBOH/CodeLearn?include_prereleases&style=flat&cacheSeconds=1)](https://code-learn1.vercel.app/)
 oppure di scaricarti sempre l'ultima versione e/o fare da te il deploy.
 
 ---
