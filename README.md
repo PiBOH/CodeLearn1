@@ -27,7 +27,7 @@
 [![GitHub Release Date](https://img.shields.io/github/release-date/PiBOH/CodeLearn?display_date=published_at&style=flat)](https://github.com/PiBOH/CodeLearn/releases/latest)
 [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/PiBOH/CodeLearn/total?style=flat&logo=GitHub&cacheSeconds=1)](https://github.com/PiBOH/CodeLearn/releases)
 [![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/PiBOH/CodeLearn/latest/total?style=flat&logo=GitHub&cacheSeconds=1)](https://github.com/PiBOH/CodeLearn/releases/latest)
-[![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fcode-learn-ruddy.vercel.app%2F&label=Visitors&icon=caret-up-fill&color=%23198754&message=&style=flat&tz=Europe%2FRome)](https://code-learn-ruddy.vercel.app/)
+[![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fcode-learn1.vercel.app/%2F&label=Visitors&icon=caret-up-fill&color=%23198754&message=&style=flat&tz=Europe%2FRome)](https://code-learn1.vercel.app/)
 ![GitHub forks](https://img.shields.io/github/forks/PiBOH/CodeLearn?style=social&logo=GitHub&cacheSeconds=1)
 ![GitHub Repo stars](https://img.shields.io/github/stars/PiBOH/CodeLearn?style=social&cacheSeconds=5)
 ![GitHub last commit](https://img.shields.io/github/last-commit/PiBOH/CodeLearn?style=flat)
