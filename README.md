@@ -4,7 +4,7 @@
 > 
 > Con l' aggiornamento dopo dopo la `1.1.2d-X` è prevista l'introduzione della dark mode e anche la possibilità di visualizzare l'app in più lingue -> versione `1.X.Xx-X`
 >
-> è prevista anche la creazione di una app per android che utilizza webview per mostrarti il sito vercel (così facendo utilizzerai sempre l'ultima versione STABLE,BETA o ALPHA che sia) -> viene ideata per risolvere il problema che su android 11 e precedenti la grafica dell'app (APK.apk) non viene mostrata correttamente, l'app si chiamerà CodeLearn-web
+> è prevista anche la creazione di una app per android che utilizza webview per mostrarti il sito vercel (così facendo utilizzerai sempre l'ultima versione STABLE, BETA o ALPHA che sia) -> viene ideata per risolvere il problema che su android 11 e precedenti la grafica dell'app (APK.apk) non viene mostrata correttamente, l'app si chiamerà CodeLearn-web
 
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://react.dev/)
