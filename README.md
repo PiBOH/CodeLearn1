@@ -3,8 +3,7 @@
 > il prossimo aggiornamento provvederà a chiudere il bug descritto in [questa issue](https://github.com/PiBOH/CodeLearn1/issues/8) -> versione `1.1.2d-X`
 > 
 > Con l' aggiornamento dopo dopo la `1.1.2d-X` è prevista l'introduzione della dark mode e anche la possibilità di visualizzare l'app in più lingue -> versione `1.X.Xx-X`
->
-> è prevista anche la creazione di una app per android che utilizza webview per mostrarti il sito vercel (così facendo utilizzerai sempre l'ultima versione STABLE, BETA o ALPHA che sia) -> viene ideata per risolvere il problema che su android 11 e precedenti la grafica dell'app (APK.apk) non viene mostrata correttamente, l'app si chiamerà CodeLearn-web
+
 
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://react.dev/)
@@ -120,7 +119,7 @@ L'APK si troverà in `android/app/build/outputs/apk/debug/app-debug.apk`.
 
 Mi trovi alla pagina delle [release](https://github.com/PiBOH/CodeLearn1/releases).
 
-**N.B.** è **sconsigliato utilizzare il file apk su Android 11 e precedenti** perché non carica correttamente la grafica (vedi gli [screenshot](https://github.com/PiBOH/CodeLearn1/blob/main/android11screen_APK/android11screen_APK.md)). Se vuoi usarla su queste versioni ti consiglio di utilizzare la [demo](https://code-learn-ruddy.vercel.app/).
+**N.B.** è **sconsigliato utilizzare il file apk su Android 11 e precedenti** perché non carica correttamente la grafica (vedi gli [screenshot](https://github.com/PiBOH/CodeLearn1/blob/main/android11screen_APK/android11screen_APK.md)). Se vuoi usarla su queste versioni ti consiglio di utilizzare la [demo](https://code-learn-ruddy.vercel.app/) oppure [CodeLearn1-WEB](https://github.com/PiBOH/CodeLearn1-WEB/releases/latest)
 
 ---
 ## 📁 Struttura del progetto
