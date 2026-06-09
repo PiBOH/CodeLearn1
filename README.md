@@ -3,6 +3,8 @@
 > il prossimo aggiornamento provvederà a chiudere il bug descritto in [questa issue](https://github.com/PiBOH/CodeLearn1/issues/8) -> versione `1.1.2d-X`
 > 
 > Con l' aggiornamento dopo dopo la `1.1.2d-X` è prevista l'introduzione della dark mode e anche la possibilità di visualizzare l'app in più lingue -> versione `1.X.Xx-X`
+>
+> è prevista anche la creazione di una app per android che utilizza webview per mostrarti il sito vercel (così facendo utilizzerai sempre l'ultima versione STABLE, BETA o ALPHA che sia) -> viene ideata per risolvere il problema che su android 11 e precedenti la grafica dell'app (APK.apk) non viene mostrata correttamente, l'app si chiamerà CodeLearn-web
 
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://react.dev/)
@@ -57,7 +59,7 @@
 
 L'app viene deployata automaticamente su Vercel e accessibile da qualsiasi browser moderno senza bisogno di installare niente, funziona su tutti i sistemi operativi (dal link)
 
-https://code-learn-ruddy.vercel.app/  
+https://code-learn1.vercel.app/  
 [![GitHub Release](https://img.shields.io/github/v/release/PiBOH/CodeLearn1?include_prereleases&style=flat-square&cacheSeconds=1)
 ](https://code-learn1.vercel.app/) 
  
