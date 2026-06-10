@@ -115,7 +115,7 @@ L'APK si troverà in `android/app/build/outputs/apk/debug/app-debug.apk`.
 >se dopo queste belle istruzioni che ho scritto con fatica e impegno continui a non avere capito niente ti consuglio di usare Claude AI (gratuita) per fare tutto.
 
 ---
-## 📱 APK Prebuildato [![GitHub Release](https://img.shields.io/github/v/release/PiBOH/CodeLearn1?cacheSeconds=1](https://github.com/PiBOH/CodeLearn1/releases/latest)
+## 📱 APK Prebuildato [![GitHub Release](https://img.shields.io/github/v/release/PiBOH/CodeLearn1?cacheSeconds=10)](https://github.com/PiBOH/CodeLearn1/releases/latest)
 
 Mi trovi alla pagina delle [release](https://github.com/PiBOH/CodeLearn1/releases/latest).
 
