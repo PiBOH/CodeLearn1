@@ -115,11 +115,11 @@ L'APK si troverà in `android/app/build/outputs/apk/debug/app-debug.apk`.
 >se dopo queste belle istruzioni che ho scritto con fatica e impegno continui a non avere capito niente ti consuglio di usare Claude AI (gratuita) per fare tutto.
 
 ---
-## 📱 APK Prebuildato ![GitHub Release](https://img.shields.io/github/v/release/PiBOH/CodeLearn1?cacheSeconds=1&link=https%3A%2F%2Fgithub.com%2FPiBOH%2FCodeLearn%2Freleases)
+## 📱 APK Prebuildato [![GitHub Release](https://img.shields.io/github/v/release/PiBOH/CodeLearn1?cacheSeconds=1](https://github.com/PiBOH/CodeLearn1/releases/latest)
 
-Mi trovi alla pagina delle [release](https://github.com/PiBOH/CodeLearn1/releases).
+Mi trovi alla pagina delle [release](https://github.com/PiBOH/CodeLearn1/releases/latest).
 
-**N.B.** è **sconsigliato utilizzare il file apk su Android 11 e precedenti** perché non carica correttamente la grafica (vedi gli [screenshot](https://github.com/PiBOH/CodeLearn1/blob/main/android11screen_APK/android11screen_APK.md)). Se vuoi usarla su queste versioni ti consiglio di utilizzare la [demo](https://code-learn-ruddy.vercel.app/) oppure [CodeLearn1-WEB](https://github.com/PiBOH/CodeLearn1-WEB/releases/latest)
+**N.B.** è **sconsigliato utilizzare il file apk su Android 11 e precedenti** perché non carica correttamente la grafica (vedi gli [screenshot](https://github.com/PiBOH/CodeLearn1/blob/main/android11screen_APK/android11screen_APK.md)). Se vuoi usarla su queste versioni ti consiglio di utilizzare la [demo](https://code-learn1.vercel.app/) oppure [CodeLearn1-WEB](https://github.com/PiBOH/CodeLearn1-WEB/releases/latest)
 
 ---
 ## 📁 Struttura del progetto
