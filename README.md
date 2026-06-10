@@ -24,7 +24,7 @@
 ![MacOS](https://img.shields.io/badge/MacOS-ffffff?logo=macos&style=flat&color=000000&logoColor=ff5000)
 ![On-line](https://img.shields.io/badge/On--line-ffffff?logo=googlechrome&style=flat&color=000000&logoColor=4285f4)
 
-[![GitHub Release](https://img.shields.io/github/v/release/PiBOH/CodeLearn1?cacheSeconds=10&link=https%3A%2F%2Fgithub.com%2FPiBOH%2FCodeLearn%2Freleases)](https://github.com/PiBOH/CodeLearn1/releases/latest)
+[![GitHub Release](https://img.shields.io/github/v/release/PiBOH/CodeLearn1?cacheSeconds=10)](https://github.com/PiBOH/CodeLearn1/releases/latest)
 [![GitHub Release Date](https://img.shields.io/github/release-date/PiBOH/CodeLearn1?display_date=published_at&style=flat)](https://github.com/PiBOH/CodeLearn1/releases/latest)
 [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/PiBOH/CodeLearn1/total?style=flat&logo=GitHub&cacheSeconds=1)](https://github.com/PiBOH/CodeLearn1/releases)
 [![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/PiBOH/CodeLearn1/latest/total?style=flat&logo=GitHub&cacheSeconds=1)](https://github.com/PiBOH/CodeLearn1/releases/latest)
