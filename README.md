@@ -34,7 +34,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/PiBOH/CodeLearn1?style=flat)
 [![GitHub project issues](https://img.shields.io/github/issues/PiBOH/CodeLearn1.svg)](https://github.com/PiBOH/CodeLearn1/issues)
 
-[![GitHub License](https://img.shields.io/github/license/PiBOH/CodeLearn?style=flat&cacheSeconds=1)](https://github.com/PiBOH/CodeLearn1/blob/main/LICENSE.txt)
+[![GitHub License](https://img.shields.io/github/license/PiBOH/CodeLearn1?style=flat&cacheSeconds=1)](https://github.com/PiBOH/CodeLearn1/blob/main/LICENSE.txt)
 
 ***
 
