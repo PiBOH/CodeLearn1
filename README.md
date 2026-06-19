@@ -1,6 +1,6 @@
 # CodeLearn — Impara a Programmare   |   Versione 1.1.2c-3a - The Sync Update
 
-> il prossimo aggiornamento provvederà a chiudere il bug descritto in [questa issue](https://github.com/PiBOH/CodeLearn1/issues/8) -> versione `1.1.2d-X`
+> il prossimo aggiornamento provvederà a chiudere il bug descritto in [questa issue](https://github.com/PiBOH/CodeLearn1/issues/8) -> risolto con CodeLearn1-WEB.
 > 
 > Con l' aggiornamento dopo dopo la `1.1.2d-X` è prevista l'introduzione della dark mode e anche la possibilità di visualizzare l'app in più lingue -> versione `1.X.Xx-X`
 
