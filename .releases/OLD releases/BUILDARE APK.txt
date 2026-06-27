@@ -1,0 +1,23 @@
+npm install
+npm run build
+npx cap sync android
+cd android
+./gradlew assembleDebug
+cd..
+Remove-Item -Recurse -Force node_modules
+Remove-Item package-lock.json
+
+
+il file apk si troverà in
+\android\app\build\outputs\apk\debug\app-debug.apk
+
+
+se la vuoi usare su un dispositivo non android usa
+
+Remove-Item -Recurse -Force node_modules
+Remove-Item package-lock.json
+npm install
+npm run dev
+poi apri un browser e vai all'indirizzo
+
+http://localhost:5173/

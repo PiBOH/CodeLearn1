@@ -1,0 +1,122 @@
+══════════════════════════════════════════════════════════════
+  COME BUILDARE L'APK — CodeLearn 1.1.Xx-x - The Synch Update
+  (solo riga di comando, senza Android Studio)
+══════════════════════════════════════════════════════════════
+
+
+────────────────────────────────────────────────────────────
+  PREREQUISITI (installa prima di tutto il resto)
+────────────────────────────────────────────────────────────
+
+  1. Node.js 18+
+     https://nodejs.org  →  scarica la versione LTS
+
+  2. Java JDK 17
+     https://adoptium.net  →  scarica "Temurin 17 LTS"
+     Durante l'installazione spunta:
+       ✔ Set JAVA_HOME variable
+       ✔ Add to PATH
+
+  3. Android SDK (senza Android Studio)
+     https://developer.android.com/studio#command-line-tools-only
+     Scarica solo "Command line tools only" per Windows.
+
+     Poi esegui in PowerShell (adatta il percorso):
+       mkdir C:\Android\cmdline-tools\latest
+       # estrai il contenuto dello zip dentro quella cartella
+
+     Poi aggiungi queste variabili d'ambiente di sistema:
+       ANDROID_HOME = C:\Android
+       Aggiungi al PATH:
+         C:\Android\cmdline-tools\latest\bin
+         C:\Android\platform-tools
+
+     Poi installa i pacchetti SDK:
+       sdkmanager "platform-tools"
+       sdkmanager "platforms;android-34"
+       sdkmanager "build-tools;34.0.0"
+       sdkmanager --licenses   ← accetta tutte le licenze
+
+
+────────────────────────────────────────────────────────────
+  PRIMA BUILD (solo la prima volta su questo PC)
+────────────────────────────────────────────────────────────
+
+  Dalla ROOT del progetto in PowerShell:
+
+npm install
+npm run build
+npx cap sync android
+cd android
+.\SETUP_WRAPPER.ps1
+.\gradlew.bat assembleDebug
+cd ..
+
+  ✔ SETUP_WRAPPER.ps1 scarica gradle-wrapper.jar automaticamente.
+    Ti serve solo la prima volta su ogni PC.
+
+
+────────────────────────────────────────────────────────────
+  DALLA SECONDA BUILD IN POI
+────────────────────────────────────────────────────────────
+
+  Dalla ROOT del progetto:
+
+    npm run build
+    npx cap sync android
+    cd android
+    .\gradlew.bat assembleDebug
+    cd ..
+
+
+────────────────────────────────────────────────────────────
+  DOVE SI TROVA L'APK
+────────────────────────────────────────────────────────────
+
+  android\app\build\outputs\apk\debug\app-debug.apk
+
+
+────────────────────────────────────────────────────────────
+  ERRORI COMUNI E SOLUZIONI
+────────────────────────────────────────────────────────────
+
+  ✖ '.\gradlew' non riconosciuto
+    → Usa SEMPRE .\gradlew.bat  (non .\gradlew)
+      .\gradlew è uno script Linux, non funziona su Windows.
+
+  ✖ JAVA_HOME non impostato / java non trovato
+    → Reinstalla JDK 17 da adoptium.net
+      Spunta "Set JAVA_HOME" durante l'installazione.
+      Poi riavvia PowerShell.
+
+  ✖ SDK location not found / ANDROID_HOME mancante
+    → Imposta la variabile d'ambiente:
+      ANDROID_HOME = C:\Android   (o dove hai installato l'SDK)
+      Riavvia PowerShell dopo averla impostata.
+
+  ✖ "License for package not accepted"
+    → Esegui:  sdkmanager --licenses
+      Digita "y" a tutte le domande.
+
+  ✖ gradle-wrapper.jar mancante (primo avvio)
+    → Esegui:  .\SETUP_WRAPPER.ps1
+      Solo una volta per PC, poi non serve più.
+
+  ✖ Build fallita con errori Gradle generici
+    → Prova a pulire e ricompilare:
+      .\gradlew.bat clean assembleDebug
+
+
+────────────────────────────────────────────────────────────
+  TESTARE L'APP NEL BROWSER (senza buildare l'APK)
+────────────────────────────────────────────────────────────
+
+  Remove-Item -Recurse -Force node_modules
+  Remove-Item package-lock.json
+  npm install
+  npm run dev
+
+  Poi apri il browser su:  http://localhost:5173/
+
+
+══════════════════════════════════════════════════════════════
